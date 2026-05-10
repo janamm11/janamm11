@@ -39,7 +39,7 @@
 
 **Focus Areas**
 
-`Data Cleaning & Wrangling` &nbsp; `Exploratory Data Analysis` &nbsp; `Inferential Statistics` &nbsp; `Hypothesis Testing` &nbsp; `Descriptive Statistics` &nbsp; `Data Visualization` &nbsp; `Predictive Modeling` &nbsp; `Feature Engineering`  `Dasbboard design` &nbsp;
+`Data Cleaning & Wrangling` &nbsp; `Exploratory Data Analysis` &nbsp; `Inferential Statistics` &nbsp; `Hypothesis Testing` &nbsp; `Descriptive Statistics` &nbsp; `Data Visualization` &nbsp; `Predictive Modeling` &nbsp; `Feature Engineering`  `DashBoard design` &nbsp;
 
 ---
 
